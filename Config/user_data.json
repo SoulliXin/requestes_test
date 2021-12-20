@@ -1,0 +1,52 @@
+{
+  "agileone/index.php/notice/query":
+    {
+        "noticeid": "76",
+        "headline": "测试公告",
+        "content": "测试公告的内容",
+        "creator": "admin",
+        "expireddate": "2019-05-14",
+        "scope": "0",
+        "createdtime": "2021-08-23 03:46:23",
+        "updatedtime": "2021-08-23 03:46:23"
+    },
+  "agileone/index.php/minutes/query":
+  {
+        "minutesid":"1",
+        "projectid":"1",
+        "topic":"\u8fb9\u7f18\u4e16\u754c",
+        "holdtime":"2019-10-25 09:00:00",
+        "venue":"\u96ea\u8c79\u8c37",
+        "organizer":"\u96ea\u8c79",
+        "attendee":"\u884c\u661f",
+        "resolution":"12346752",
+        "createdtime":"2019-08-25 08:01:17",
+        "updatedtime":"2019-08-25 08:01:17"
+  },
+  "agileone/index.php/knowledge/query":
+  {
+        "knowledgeid":"10",
+        "projectid":"1",
+        "creator":"admin",
+        "type":"Technology",
+        "headline":"1",
+        "content":"1",
+        "createdtime":"2019-08-26 02:10:56",
+        "updatedtime":"2019-08-26 02:10:56",
+        "projname":"agileone"
+  },
+  "agileone/index.php/proposal/query":
+  {
+        "proposalid":"13",
+        "projectid":"1",
+        "creator":"admin",
+        "type":"Requirement",
+        "importance":"Medium",
+        "headline":"11111",
+        "content":"21344",
+        "processed":"1",
+        "processresult":"1",
+        "createdtime":"2021-08-31 09:02:43",
+        "updatedtime":"2021-08-31 09:02:43"
+  }
+}
